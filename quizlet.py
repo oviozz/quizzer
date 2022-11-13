@@ -7,7 +7,7 @@ class Quizlet:
         self._url = url
 
     def valid_url(self):
-        if 'quizlet' not in self._url:
+        if 'quizlet' not in self._url and 'flash-cards' not in self._url:
             return False
         return True
 
