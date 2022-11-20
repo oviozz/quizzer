@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>send-plane-fill.png</file>
+    <file>submit_icon.png</file>
+    <file>search_bar_icon.png</file>
+  </qresource>
+</RCC>
